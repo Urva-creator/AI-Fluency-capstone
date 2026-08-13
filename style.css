@@ -1,0 +1,13 @@
+body {
+    background-color: #FFFFFF;
+    color: black;
+    font-family: serif;
+}
+
+h1, h2 {
+    color: #D96C8C;
+}
+
+h2 {
+    margin-top: 20px;
+}
